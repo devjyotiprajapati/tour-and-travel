@@ -1,5 +1,3 @@
-Based on the structure and contents of the repository [devjyotiprajapati/tour-and-travel](https://github.com/devjyotiprajapati/tour-and-travel), here's a suggested `README.md` file to enhance its documentation:
-
 ---
 
 # Tour and Travel Booking System
